@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"name": "PyCustomClass",
+			"path": "."
+		}
+	],
+
+	"settings": {
+		"files.exclude" : {
+			"**/.vs": true,	
+			"**/x64": true,
+			"**/*.vcxproj*": true,
+			"**/*.pyproj*": true,
+			".gitignore": true,
+			"PyCustomClass.sln": true,
+			"**/TestSpace": true,
+
+		},
+		"workbench.tree.indent": 30,
+		"python.defaultInterpreterPath": "C:/Users/yamc/source/repos/cpython/PCbuild/amd64/python_d.exe",
+	},
+	"launch": {
+		"version": "0.2.0"
+	}
+}
